@@ -1,5 +1,5 @@
 # BasePlate
-Stupid simple static HTML project starter with SASS and Bourbon.
+Stupid simple static HTML project starter with Bourbon flavored SASS, and gulp.
 
 ## Install
 Grab the latest version of node, then run
