@@ -1,0 +1,19 @@
+// tools/utils
+
+.u-vcenter-wrap {
+  text-align: center;
+  white-space: nowrap;
+
+  &:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -0.25em;
+  }
+}
+
+.u-vcenter-block {
+  display: inline-block;
+  vertical-align: middle;
+}

@@ -1,0 +1,4 @@
+/node_modules/
+/app/public_dist/
+.env
+npm-debug.log
